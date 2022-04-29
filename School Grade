@@ -17,7 +17,3 @@ try:
         print('Your grade is A+')
 except:
     print('Error, you must insert a number. Restart the program!')
-
-
-
-
