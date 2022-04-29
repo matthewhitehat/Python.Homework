@@ -52,9 +52,5 @@ while True:
             round7 = round(british_pound, 3)
             print(f'This is your dollar amount converted into British Pound: {round7}')
             break
-
     except:
         print('Error! You must insert a float number!')
-
-
-
