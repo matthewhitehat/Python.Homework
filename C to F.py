@@ -14,9 +14,3 @@ elif answer == 'c':
     roundB = round(far, 1)
     print(f'This is your converted temperature in fahrenheit {roundB}')
     print('Thank you for using my program!')
-
-
-
-
-
-   
